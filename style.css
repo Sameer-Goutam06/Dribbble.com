@@ -9,6 +9,12 @@ html,body
     width:100%;
     height:100%;
 }
+.source-serif-4-font {
+  font-family: "Source Serif 4", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
 .main
 {
     width:100%;
@@ -123,7 +129,6 @@ html,body
 {
     font-size: 5vmax;
     text-align: center;
-    font-family: 'Times New Roman', Times, serif;
     font-family: "Source Serif 4",serif;  
     font-weight: 500;
     color: #0d0c22;  
